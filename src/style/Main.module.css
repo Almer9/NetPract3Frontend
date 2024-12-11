@@ -1,0 +1,11 @@
+.wrapper{
+    background-color: #ccbeb1;
+    width: 100%;
+    flex: 1 1;
+}
+.mushroomWrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin: 0 10px;
+}
